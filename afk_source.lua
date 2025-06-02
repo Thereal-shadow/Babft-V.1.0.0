@@ -11,7 +11,7 @@ local PLACE_ID = game.PlaceId
 
 -- Remote function to send AFK notification
 local function notifyAFK()
-	local url = "https://yourusername.pythonanywhere.com/afk"
+	local url = "https://thereal1shadow6766.pythonanywhere.com/afk"
 
 	local data = {
 		player = player.Name,
